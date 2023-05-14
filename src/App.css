@@ -3,3 +3,6 @@
     font-family: 'Mulish', sans-serif;
 }
 
+.scrollbar-hide::-webkit-scrollbar{
+    display: none;
+}
